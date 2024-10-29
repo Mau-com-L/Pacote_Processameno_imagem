@@ -13,7 +13,7 @@ setup(
     description="image Processing Package using Skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url= "https://github.com/Mau-com-L/Pacote_Processameno_imagem.git"
+    url= "https://github.com/Mau-com-L/Pacote_Processameno_imagem.git",
     packages= find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
